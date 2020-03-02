@@ -19,6 +19,6 @@ Go to my  [Bilibili space](https://space.bilibili.com/7857541) .
 
 ### Contact me
 
-by email to [me@dennischen.com.cn](mailto: me@dennischen.com.cn). 
+by email to [me@dennischen.com.cn](mailto:me@dennischen.com.cn). 
 
 
