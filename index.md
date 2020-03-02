@@ -1,38 +1,24 @@
 ## Welcome to My Homepage!
 
+![Image](http://r.photo.store.qq.com/psb?/77a80153-5c87-473a-95a1-0d5798d6d177/3SPUg3rAcsd7mHE0gQ.F.gUfWFLeYCcMbvNrELrA244!/r/dNVmrpK6IAAA)
 
-It's my  [Sina Weibo](https://weibo.com/dennissss/) .
+I'm Dennis Chen. 
 
-It's my  [Music station](https://music.163.com/#/artist?id=12318501) .
+It is my great honor to have this opportunity to see you.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Go to my  [Sina Weibo](https://weibo.com/dennissss/) .
 
-- Bulleted
-- List
+Go to my  [music station](https://music.163.com/#/artist?id=12318501) .
 
-1. Numbered
-2. List
+Go to my  [Bilibili space](https://space.bilibili.com/7857541) .
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact me
 
-### Jekyll Themes
+by email to [me@dennischen.com.cn](me@dennischen.com.cn). 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dennisfermat/dennischen.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
