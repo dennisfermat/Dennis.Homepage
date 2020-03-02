@@ -6,6 +6,12 @@ I'm Dennis Chen.
 
 It is my great honor to have this opportunity to see you.
 
+Go to my  [Sina Weibo](https://weibo.com/dennissss/) .
+
+Go to my  [music station](https://music.163.com/#/artist?id=12318501) .
+
+Go to my  [Bilibili space](https://space.bilibili.com/7857541) .
+
 
 ```markdown
 
