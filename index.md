@@ -19,6 +19,6 @@ It is my great honor to have this opportunity to see you.
 
 ### Contact me
 
-by email to [me@dennischen.com.cn](mailto:me@dennischen.com.cn). 
+by email to [dennis@dennischen.com.cn](mailto:dennis@dennischen.com.cn). 
 
 
