@@ -19,6 +19,8 @@ It is my great honor to have this opportunity to see you.
 
 ### Contact me
 
-by email to [dennis@dennischen.com.cn](mailto:dennis@dennischen.com.cn). 
+by email to [dennis@mwmusic.net.cn](mailto:dennis@mwmusic.net.cn). 
+
+![Image](https://exmail.qq.com/cgi-bin/viewfile?type=signature&picid=ZX2320-oyUlxlZeW48SDiJ87XG%7EKag&uin=752128134)
 
 
