@@ -21,6 +21,6 @@ It is my great honor to have this opportunity to see you.
 
 by email to [dennis@mwmusic.net.cn](mailto:dennis@mwmusic.net.cn). 
 
-![Image](http://photogz.photo.store.qq.com/psc?/19a4f73a-d261-42a1-b890-a9d13685df9c/wSJ2S*tZT7v.5zxXfWcfXU7FRf2wf2KGuuvjll*yqgH9BnUNAIMs06YiOuz.Smqb.GTYTlyCCL4wwamjamxjYYq*AnCHxh87GZaXal9LRIg!/b&bo=ZAA.AGQAPgADFzI!&rf=viewer_4&t=5)
+![Image](https://i.postimg.cc/FRCzhJ4N/psc.png)
 
 
